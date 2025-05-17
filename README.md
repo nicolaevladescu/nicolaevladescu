@@ -13,6 +13,7 @@
 </br>
 
 ```
-Hello, I am Nicolae Vlădescu, a curious, tenacious and resilient autodidact.
+Hello, I am Nicolae Vlădescu.
+I am a curious, tenacious and resilient autodidact.
 I am usually interested in open source, and self hosting.
 ```
