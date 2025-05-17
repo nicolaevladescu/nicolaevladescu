@@ -9,3 +9,9 @@
         </a>
     </div>
 </div>
+
+</br>
+
+```
+A curious, tenacious and resilient autodidact. 
+```
