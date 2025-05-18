@@ -1,5 +1,4 @@
 <div id= "header" align="center">
-<h1></h1>
     <h1>👨‍💻 🐧 🏍</h1>
     <div id="badges" align="center">
         <a href="https://nicolaevladescu.com/">
